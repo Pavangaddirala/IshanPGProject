@@ -1,0 +1,32 @@
+{
+  "id": "c877e199-5d98-4846-9c9a-d0949812fa19",
+  "name": "IshanPGProject",
+  "publisher": "pavangaddirala",
+  "version": "1.0.0.1",
+  "brief": "IShan New PG for Mens",
+  "description": "PG for Mens",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
